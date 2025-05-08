@@ -154,4 +154,3 @@ Every time a new message is transcribed or an assistant response is generated, t
 
 This project sets up a simple yet powerful **Voice AI Assistant** capable of handling incoming calls, processing audio in real-time, generating responses using OpenAI's GPT-4, and logging the conversation to Google Cloud Storage. You can extend this to integrate with other services or add more sophisticated features like authentication or user-specific dialogues.
 
-Let me know if you need further assistance!
