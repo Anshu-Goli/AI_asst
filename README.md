@@ -149,6 +149,7 @@ Every time a new message is transcribed or an assistant response is generated, t
    - Make sure that your FastAPI app is running and accessible from the internet via the ngrok URL.
 
 ---
+<img src="https://github.com/user-attachments/assets/8823f5c5-c1b6-45e4-992e-a0d8feefa5e7" width="500" />
 
 ## Conclusion
 
